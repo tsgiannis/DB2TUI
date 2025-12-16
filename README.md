@@ -10,7 +10,7 @@ DB2TUI is a lightweight, terminal-based SQL IDE designed for DB2 databases runni
 Current Version: 0.1 (Initial Release)
 This is a minimal version with core functionality. Future updates will expand features based on time and feedback.
 
-# Requirements
+## Requirements
 
 Python 3.9.2 (Tested on pub400, the only free IBM system available for public use).
 Textual package (Install via wheel):
@@ -21,27 +21,29 @@ pip3 install https://files.pythonhosted.org/packages/5f/2b/7cdfdfd79bae4e2555d3b
 Additional dependencies may be required. Install missing packages as errors arise (use pip3).
 
 ## Features
-1. Library and Table Navigation
+### 1. Library and Table Navigation
 
 Start by typing the LIBRARY you want to work with.
 Tables appear in the left pane after pressing ENTER.
 <img width="295" height="671" alt="image" src="https://github.com/user-attachments/assets/f03c6f43-c6cc-4c63-94ec-32474da647cd" />
 Table Navigation
-2. Data View and Interaction
+### 2. Data View and Interaction
 
 Use mouse selection (even in Putty) to interact with tables.
 Supports paging for large datasets.
 Data View
 Paging
 <img width="1653" height="174" alt="image" src="https://github.com/user-attachments/assets/c7171c7c-c5ab-4744-b74e-43913fbf5f1f" />
-3. SQL Execution
+<img width="1069" height="534" alt="image" src="https://github.com/user-attachments/assets/aa7d3d6b-2b30-415b-abf0-3082c840e81d" />
+
+### 3. SQL Execution
 
 Write SQL commands in the top pane.
 Execute with Ctrl+E.
 Load .sql files with Ctrl+O. (execute with Ctrl_E)
 <img width="534" height="197" alt="image" src="https://github.com/user-attachments/assets/10ed88aa-9cdc-4168-9f4d-302e1c2cfe10" />
-SQL Execution
-4. Keyboard Shortcuts
+
+### 4. Keyboard Shortcuts
     
       Shortcut
       Action
@@ -68,7 +70,7 @@ SQL Execution
 
 
 
-# Roadmap
+### Roadmap
 I plan to enhance DB2TUI with:
 
 More robust error handling.
