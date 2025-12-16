@@ -1,6 +1,6 @@
-Here’s a polished and professional version of your GitHub README for DB2TUI, with improved clarity, structure, and readability while keeping your original tone and intent:
 
 DB2TUI
+
 A minimal TUI SQL IDE for DB2 Databases on AS/400
 ![MainScreen](https://github.com/user-attachments/assets/f9e53d81-392b-4e97-9fe9-a2b8543f6997)
 
