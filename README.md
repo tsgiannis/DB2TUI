@@ -13,8 +13,6 @@ Requirements
 
 Python 3.9.2 (Tested on pub400, the only free IBM system available for public use).
 Textual package (Install via wheel):
-bash
-Copy
 
 pip3 install https://files.pythonhosted.org/packages/5f/2b/7cdfdfd79bae4e2555d3ba79976417d675fbc52951190fdfc3ed0d0148ea/textual-6.10.0-py3-none-any.whl
 
